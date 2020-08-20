@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://test:teste1@ds245677.mlab.com:45677/bumer-test",
+    "secret": "948cf9795f8ecc9f9707db17273b2665"
+}
